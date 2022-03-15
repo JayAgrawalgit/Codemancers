@@ -1,0 +1,10 @@
+Task: Deployment 
+
+- Create a web application using the language or framework of your choice 
+
+- The app should connect to a database(MySQL, Postgres, etc ) and perform basic CRUD operations 
+
+- Deploy this application over the internet(AWS, Azure, Heroku, Netlify, etc ) 
+
+- Share the repository and live application link with us.
+
